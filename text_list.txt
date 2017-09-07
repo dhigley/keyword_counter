@@ -1,0 +1,3 @@
+Here is a list of words to parse and count.
+I will want to test for separate lines, repeated words, punctuation, and "other" characters.
+Here is another line of words to provide duplication for the count. 1extra word to make it difficult.
